@@ -73,6 +73,84 @@ The process is deliberately pre-solution, human-centered, and constraint-respect
 - Highlight that it enables safe AI integration without overreach
 - When generating resume bullets, LinkedIn posts, or application materials: focus on architectural thinking, grounding in reality, and stakeholder trust-building
 
+## Addendum: Reference-Anchored ASD Case Studies (Key Evolution to ASD Process)
+
+### Goal / Vision (Updated)
+Extend ASD into "Reference-Anchored ASD Case Studies" — public, falsifiable demonstrations of the ASD process applied to real, inspectable systems.  
+Shift from generic or hypothetical examples to analyses that always start from publicly observable artifacts of existing companies, making the work credible, constrained, and differentiable.
+
+### Problem Statement (Added Layer)
+Previous ASD applications risked appearing generic or speculative because they:
+- Lacked a visible, bounded starting point (real company + real artifacts)
+- Allowed implicit invention of context
+- Reduced differentiation — anyone can describe idealized processes without grounding
+- Failed to demonstrate restraint and evidence-based reasoning in public
+
+### System / Approach (Major Extension)
+ASD now mandates a non-negotiable grounding phase before any problem decomposition or architectural reasoning.
+
+Every ASD case study must follow this strict sequence:
+
+1. **Reference System Definition (Grounding)**
+   - Company: [Specific real company]
+   - Artifacts Used: List of public URLs/references (docs, API reference, blog posts, compliance pages, job postings, etc.)
+   - What Exists Today: Factual enumeration only (products, workflows, features, interfaces — no speculation)
+
+2. **Observed System Properties**
+   - Inferred guarantees and invariants required for the system to function as publicly described
+   - Declared promises (SLAs, compliance, trust guarantees)
+
+3. **Tension / Fracture Point**
+   - Specific, observable mismatch or evolution pressure (e.g., introduction of AI into historically deterministic workflows)
+   - Grounded in artifacts, not invented
+
+4. **ASD Exploration (Core Process)**
+   - Decision Surface Mapping
+   - Risk & Failure Analysis (especially AI-specific)
+   - Authority Boundaries (human vs system vs AI)
+   - Architectural Principles derived from grounding
+
+5. **Architectural Re-Expression**
+   - Clarified decision map
+   - Required observability/auditability
+   - Safe evolution path respecting all constraints
+
+6. **Optional Implementation Direction**
+   - Only after full grounding and reasoning
+   - Always downstream and secondary
+
+This structure ensures:
+- No design from "vibes" — only from existing reality
+- Implicit systems are made explicit before any evolution is proposed
+- All reasoning is anchored and falsifiable
+
+### Implementation Notes
+- Still a mature methodology/template, not software
+- Case studies are produced as standalone Markdown documents or appended sections
+- First candidates identified (Stripe, GitHub, Atlassian, ServiceNow, Zendesk, Salesforce, Shopify, Notion, Slack, Intercom)
+- Process deliberately avoids internal access — proves value from public signals alone
+- Designed to serve as portfolio artifacts, interview discussion pieces, and consulting deliverables
+
+### Metrics / Validation (Updated)
+- Ability to produce complete, grounded case studies that withstand public scrutiny
+- Stakeholder/hiring manager feedback on demonstrated restraint and realism
+- Differentiation in applications: "I don't propose solutions in a vacuum — here are public analyses showing how I think"
+- Successful use of case studies to initiate conversations with target companies
+
+### Observations / Lessons Learned (New)
+- Grounding in real public artifacts eliminates the "generic consultant" perception
+- Public companies with extensive documentation (Stripe, GitHub, Zendesk) are ideal — they expose decision complexity without needing NDAs
+- Starting from fracture points created by AI introduction highlights ASD's unique value (safe integration without breaking guarantees)
+- Explicit rejection of speculation builds far more trust than flashy but ungrounded proposals
+- This approach mirrors how senior internal architects actually work: they inherit messy reality and must evolve it safely
+
+### Notes for LLM Use
+- When referencing ASD, always emphasize the mandatory grounding phase and reference-anchored case studies
+- Never present ASD examples without naming a real company and specific public artifacts
+- In resume bullets, LinkedIn posts, or applications: highlight "evidence-based architectural reasoning from public systems" and "restraint in automation proposals"
+- If generating content, ask for clarification on which reference company to use if not specified
+- Stress that this evolution makes ASD uniquely credible and enterprise-ready
+
 2.
 - If targeting consulting/strategy roles: stress how ASD bridges intent to implementable plans inside constrained enterprises
 - Always acknowledge it is a template ready for real-world application rather than a completed deployment
