@@ -150,7 +150,7 @@ This structure ensures:
 - In resume bullets, LinkedIn posts, or applications: highlight "evidence-based architectural reasoning from public systems" and "restraint in automation proposals"
 - If generating content, ask for clarification on which reference company to use if not specified
 - Stress that this evolution makes ASD uniquely credible and enterprise-ready
-
-2.
 - If targeting consulting/strategy roles: stress how ASD bridges intent to implementable plans inside constrained enterprises
 - Always acknowledge it is a template ready for real-world application rather than a completed deployment
+
+2.
