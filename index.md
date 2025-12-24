@@ -17,41 +17,49 @@ These provide personal grounding for tailoring resumes, applications, or outreac
 ## Project Overviews (Staged in livingsummaries.md)
 Detailed summaries live in the staging file: [livingsummaries.md](https://raw.githubusercontent.com/MrTrentDaVinci/reference/main/livingsummaries.md). Below are brief descriptions and status/types for quick reference. Projects here will migrate to individual files as they mature.
 
-1. **ASD**  https://raw.githubusercontent.com/MrTrentDaVinci/reference/main/ASD.md
-   A rigorous process to translate organizational intent into safe, explainable architectural plans grounded in reality.  
-   Mature methodology; staging for potential prototype expansion.
+1. **ASD**
+   - https://raw.githubusercontent.com/MrTrentDaVinci/reference/main/ASD.md
+   - A rigorous process to translate organizational intent into safe, explainable architectural plans grounded in reality.  
+   - Mature methodology; staging for potential prototype expansion.
 
-2. **Golden SLM**  https://raw.githubusercontent.com/MrTrentDaVinci/reference/main/GoldenSLM.md
-   A self-improving local AI system using geometric embeddings and symbolic control for efficient performance.  
-   Conceptual blueprint; ready for prototyping phases.
+2. **Golden SLM**
+   - https://raw.githubusercontent.com/MrTrentDaVinci/reference/main/GoldenSLM.md
+   - A self-improving local AI system using geometric embeddings and symbolic control for efficient performance.  
+   - Conceptual blueprint; ready for prototyping phases.
 
-3. **Tag**  https://raw.githubusercontent.com/MrTrentDaVinci/reference/main/Tag.md
-   An icon-based discovery platform with AI agents for organizing and acting on information with privacy focus.  
-   Architecture defined; staging for implementation starting with core components.
+3. **Tag**
+   - https://raw.githubusercontent.com/MrTrentDaVinci/reference/main/Tag.md
+   - An icon-based discovery platform with AI agents for organizing and acting on information with privacy focus.  
+   - Architecture defined; staging for implementation starting with core components.
 
-4. **System Design Decision Framework**  https://raw.githubusercontent.com/MrTrentDaVinci/reference/main/SDDF.md
-   A modular methodology for designing and evolving software architectures with JSON-driven validation.  
-   v1.0 in use; v2.0 designed and slated for Q1 2026 implementation.
+4. **System Design Decision Framework**
+   - https://raw.githubusercontent.com/MrTrentDaVinci/reference/main/SDDF.md
+   - A modular methodology for designing and evolving software architectures with JSON-driven validation.  
+   - v1.0 in use; v2.0 designed and slated for Q1 2026 implementation.
 
-5. **Email Routing**  https://raw.githubusercontent.com/MrTrentDaVinci/reference/main/EmailProcessing.md
-   An auditable system for processing emails under regulatory and policy constraints with multi-phase decisions.  
-   Conceptual architecture; validated against real cases and ready for prototyping.
+5. **Email Routing**
+   - https://raw.githubusercontent.com/MrTrentDaVinci/reference/main/EmailProcessing.md
+   - An auditable system for processing emails under regulatory and policy constraints with multi-phase decisions.  
+   - Conceptual architecture; validated against real cases and ready for prototyping.
 
-6. **Document Processing**  https://raw.githubusercontent.com/MrTrentDaVinci/reference/main/LargeDocProcessing.md
-   An architecture for querying large documents while preserving structure and citations using multi-DB validation.  
-   Framework proven; domain-specific elements implemented and staging for full integration.
+6. **Document Processing**
+   - https://raw.githubusercontent.com/MrTrentDaVinci/reference/main/LargeDocProcessing.md
+   - An architecture for querying large documents while preserving structure and citations using multi-DB validation.  
+   - Framework proven; domain-specific elements implemented and staging for full integration.
 
-7. **SCIS**  https://raw.githubusercontent.com/MrTrentDaVinci/reference/main/SCIS.md
-   A deterministic framework declaring all software aspects explicitly for human-LLM collaboration without ambiguity.  
-   Foundational principles applied across projects; mature and in active use.
+7. **SCIS**
+   - https://raw.githubusercontent.com/MrTrentDaVinci/reference/main/SCIS.md
+   - A deterministic framework declaring all software aspects explicitly for human-LLM collaboration without ambiguity.  
+   - Foundational principles applied across projects; mature and in active use.
 
-8. **Program Builder**  https://raw.githubusercontent.com/MrTrentDaVinci/reference/main/ProgramBuilder.md
-   A deterministic code assembly system using external LLMs for intent and SLMs for mechanical building with validation.  
-   In development as a Python desktop app; SCIS-compliant with defined cycles.
+8. **Program Builder**
+   - https://raw.githubusercontent.com/MrTrentDaVinci/reference/main/ProgramBuilder.md
+   - A deterministic code assembly system using external LLMs for intent and SLMs for mechanical building with validation.  
+   - In development as a Python desktop app; SCIS-compliant with defined cycles.
 
 9. **(Untitled Placeholder)**  
-   Reserved for emerging ideas or refinements.  
-   Early staging; no details yet — append to livingsummaries.md as needed.
+   - Reserved for emerging ideas or refinements.  
+   - Early staging; no details yet — append to livingsummaries.md as needed.
 
 
 (Repeat placeholders for others as needed — replace with real links/content when split.)
