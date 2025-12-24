@@ -1,4 +1,5 @@
-https://raw.githubusercontent.com/MrTrentDaVinci/reference/main/reference.md
+
+https://raw.githubusercontent.com/MrTrentDaVinci/reference/main/livingsummaries.md
 
 # Living Summaries
 
